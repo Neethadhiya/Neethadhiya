@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neethadhiya" alt="neethadhiya" /></a> </p>
 
-- 🔭 I’m currently working on **p**
+- 🔭 I’m currently working on **AI Automation**
 
 - 💬 Ask me about **Langchain, Crew AI, Gen AI, Fast API, Streamlit, Python, Django, React, HTML, CSS, Javascript, Postgresql, MongoDb**
 
