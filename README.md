@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neetha PA</h1>
-<h3 align="center">Passionate python developer</h3>
+<h3 align="center">Python developer | AI Automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neethadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="neethadhiya" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **p**
 
-- 💬 Ask me about **Python, Django, React, HTML, CSS, Javascript, Postgresql, MongoDb**
+- 💬 Ask me about **Langchain, Crew AI, Gen AI, Fast API, Streamlit, Python, Django, React, HTML, CSS, Javascript, Postgresql, MongoDb**
 
 - 📫 How to reach me **neetha.pa2023@gmail.com**
 
