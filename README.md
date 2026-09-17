@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neetha PA</h1>
-<h3 align="center">AI/ML Engineer | LLMs · RAG Pipelines · Agentic AI · Production ML</h3>
+<h3 align="center">AI/ML Engineer | LLMs · RAG Pipelines · Agentic AI</h3>
 
 <p align="center">
   <a href="mailto:neetha.pa2023@gmail.com">📧 neetha.pa2023@gmail.com</a> &nbsp;•&nbsp;
@@ -11,9 +11,8 @@
 
 ### 👩‍💻 About Me
 
-- 🏢 Previously at **EY** — built production time series forecasting models (XGBoost, LightGBM) with MLflow tracking
+- 🏢 Previously at **EY** — built production time series sales forecasting models (XGBoost, LightGBM) with MLflow tracking
 - 🤖 Built **HR Audit Copilot** — a full agentic RAG system with ChromaDB, Azure OpenAI & dynamic agent routing
-- 🌍 Working on a **Multilingual Video Translation Pipeline** (Whisper → IndicTrans2 → Sarvam TTS → FFmpeg)
 - 💬 Ask me about **LangChain, LangGraph, RAG, Agentic AI, LLMs, FastAPI, MLflow**
 - 📫 Reach me at **neetha.pa2023@gmail.com**
 
