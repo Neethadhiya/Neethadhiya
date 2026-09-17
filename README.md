@@ -76,17 +76,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neethadhiya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethadhiya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 📜 Certifications
 
 - 🏅 Supervised Machine Learning: Regression — **IBM**
