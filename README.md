@@ -22,7 +22,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [HR Audit Copilot](https://github.com/Neethadhiya/HR_Audit_Copilot_frontend) | Agentic RAG system for intelligent HR audit interviews with dynamic tool routing | LangChain · ChromaDB · Azure OpenAI · FastAPI |
+| [HR Audit Copilot](https://github.com/Neethadhiya/HR_Audit_Copilot_backend) | Agentic RAG system for intelligent HR audit interviews with dynamic tool routing | LangChain · ChromaDB · Azure OpenAI · FastAPI |
 | [Resume Parser Agent](https://github.com/Neethadhiya/Resume-Parser-Langchain-Xerox_PDF_to_Excel_Converter) | AI system processing hundreds of PDFs using Anthropic Claude + GPT-4o-mini | Claude API · LangChain · Streamlit |
 
 
